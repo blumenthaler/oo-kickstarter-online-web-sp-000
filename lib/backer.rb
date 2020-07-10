@@ -9,6 +9,8 @@ class Backer
   
   def back_project(project)
     @backed_projects << project
+    # when called, should also update @backers list
+      # create a class 
   end
   
 end
